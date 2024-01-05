@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <a href="https://github.com/ila13-code">
     <img src="https://img.shields.io/badge/Hi%20👋,%20I'm-Ilaria-pink?style=for-the-badge&logo=heart" alt="Hi, I'm Ilaria">
   </a>
