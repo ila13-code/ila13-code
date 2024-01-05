@@ -1,4 +1,4 @@
-<h1 align="center" style="color: pink;">Hi 👋, I'm Ilaria</h1>
+<h1 style="color: pink; text-align: center;">Hi 👋, I'm Ilaria</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
