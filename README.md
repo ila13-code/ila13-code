@@ -1,4 +1,5 @@
-# [![Hi 👋, I'm Ilaria](https://img.shields.io/badge/Hi%20👋,%20I'm-Ilaria-pink?style=for-the-badge&logo=heart&label=Ilaria%20Profile)](https://github.com/ila13-code)
+# [![Hi 👋, I'm Ilaria](https://img.shields.io/badge/Hi%20👋,%20I'm-Ilaria-pink?style=for-the-badge&logo=heart)](https://github.com/ila13-code)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
