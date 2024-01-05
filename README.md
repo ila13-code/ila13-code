@@ -1,4 +1,7 @@
-<h1 style="color: pink; text-align: center;">Hi 👋, I'm Ilaria</h1>
+# Hi 👋, I'm Ilaria
+
+[![Ilaria](https://img.shields.io/badge/Ilaria-pink?style=for-the-badge&logo=heart)](https://ilariaprofile.github.io)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
