@@ -34,5 +34,3 @@
     <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" alt="nestjs" width="40" height="40"/>
   </a>
 </p>
-![Most used languages](https://metrics.lecoq.io/ila13-code?template=classic&base=&languages=1&languages.sections=most-used&languages.limit=8&languages.threshold=0%25&languages.other=false)
-
