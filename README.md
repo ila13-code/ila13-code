@@ -27,10 +27,11 @@
   </p>
 
   <br/>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ila13-code&show_icons=true&hide_border=true&bg_color=transparent&title_color=FE424D&icon_color=FE424D&text_color=999&hide_rank=true" alt="Ilaria's GitHub stats" />
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ila13-code&show_icons=true&hide_border=true&bg_color=transparent&title_color=FE424D&icon_color=FE424D&text_color=ffffff&include_all_commits=true&count_private=true" alt="Ilaria's GitHub stats" />
     
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ila13-code&layout=compact&hide_border=true&bg_color=transparent&title_color=FE424D&text_color=999" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ila13-code&layout=compact&hide_border=true&bg_color=transparent&title_color=FE424D&text_color=ffffff" alt="Top Langs" />
   </p>
 
 </div>
