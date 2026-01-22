@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FE424D&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Ilaria;Full+Stack+%26+AI+Developer;MSc+Student+in+AI+%26+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FE424D&center=true&vCenter=true&width=435&lines=I'm+Ilaria;Full+Stack+%26+AI+Developer;MSc+Student+in+AI+%26+Security" alt="Typing SVG" />
 
   <br/>
 
@@ -30,8 +30,7 @@
   
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ila13-code&show_icons=true&hide_border=true&bg_color=transparent&title_color=FE424D&icon_color=FE424D&text_color=ffffff&include_all_commits=true&count_private=true" alt="Ilaria's GitHub stats" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ila13-code&layout=compact&hide_border=true&bg_color=transparent&title_color=FE424D&text_color=ffffff" alt="Top Langs" />
+  
   </p>
 
 </div>
