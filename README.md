@@ -1,36 +1,42 @@
-<p align="left">
-  <a href="https://github.com/ila13-code">
-    <img src="https://img.shields.io/badge/Hi%20👋,%20I'm-Ilaria-pink?style=for-the-badge&logo=heart" alt="Hi, I'm Ilaria">
-  </a>
-</p>
+<div align="center">
 
-<h4 align="left">Languages:</h4>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" alt="nestjs" width="40" height="40"/>
-  </a>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FE424D&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Ilaria;Full+Stack+%26+AI+Developer;MSc+Student+in+AI+%26+Security" alt="Typing SVG" />
+
+  <br/>
+
+  <p align="center">
+    <b>BSc in Computer Science</b> <br/>
+    Studying for <b>MSc in Artificial Intelligence & Computer Science</b> (Security Focus)<br/>
+    Working as a <b>Full Stack & AI Developer</b>
+  </p>
+
+  <br/>
+
+  <h3>🛠 Languages & Tools</h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  </p>
+
+  <br/>
+
+  <h3>GitHub Stats</h3>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ila13-code&show_icons=true&hide_border=true&title_color=FE424D&icon_color=FE424D&text_color=ffffff&bg_color=0d1117" alt="Ilaria's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ila13-code&layout=compact&hide_border=true&title_color=FE424D&text_color=ffffff&bg_color=0d1117" alt="Top Langs" />
+  </p>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ila13-code&hide_border=true&stroke=FE424D&ring=FE424D&fire=FE424D&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FE424D&sideLabels=ffffff&background=0d1117" alt="GitHub Streak" />
+
+</div>
