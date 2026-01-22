@@ -28,9 +28,10 @@
 
   <br/>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ila13-code&show_icons=true&hide_border=true&title_color=FE424D&icon_color=FE424D&text_color=ffffff&bg_color=0d1117" alt="Ilaria's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ila13-code&layout=compact&hide_border=true&title_color=FE424D&text_color=ffffff&bg_color=0d1117" alt="Top Langs" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ila13-code&show_icons=true&hide_border=true&bg_color=transparent&title_color=FE424D&icon_color=FE424D&text_color=999&hide_rank=true" alt="Ilaria's GitHub stats" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ila13-code&layout=compact&hide_border=true&bg_color=transparent&title_color=FE424D&text_color=999" alt="Top Langs" />
   </p>
 
 </div>
