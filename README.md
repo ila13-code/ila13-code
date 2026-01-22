@@ -12,7 +12,7 @@
 
   <br/>
 
-  <h3>🛠 Languages & Tools</h3>
+  <h3>Languages & Tools</h3>
 
   <p>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -36,7 +36,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ila13-code&show_icons=true&hide_border=true&title_color=FE424D&icon_color=FE424D&text_color=ffffff&bg_color=0d1117" alt="Ilaria's GitHub stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ila13-code&layout=compact&hide_border=true&title_color=FE424D&text_color=ffffff&bg_color=0d1117" alt="Top Langs" />
   </p>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ila13-code&hide_border=true&stroke=FE424D&ring=FE424D&fire=FE424D&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FE424D&sideLabels=ffffff&background=0d1117" alt="GitHub Streak" />
 
 </div>
