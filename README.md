@@ -6,7 +6,7 @@
 
   <p align="center">
     <b>BSc in Computer Science</b> <br/>
-    Studying for <b>MSc in Artificial Intelligence & Computer Science</b> (Security Focus)<br/>
+    Studying for <b>MSc in Artificial Intelligence & Computer Science</b> (Security)<br/>
     Working as a <b>Full Stack & AI Developer</b>
   </p>
 
