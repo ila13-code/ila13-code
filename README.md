@@ -32,10 +32,16 @@
 
   <br/>
 
-  <img src="https://cataas.com/cat/cute?width=220&height=220" alt="random cute cat" width="220" />
+  <br/>
 
-  <br/><br/>
+  <img src="https://raw.githubusercontent.com/ila13-code/ila13-code/main/assets/cat.jpg?v=0" alt="random cute cat" width="220" />
+
+  <p><i>A random cat, it changes every now and then.</i></p>
+
+  <br/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FE424D&height=100&section=footer" alt="footer" width="100%" />
+
+</div>
 
 </div>
