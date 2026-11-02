@@ -36,7 +36,7 @@
 
   <img src="https://raw.githubusercontent.com/ila13-code/ila13-code/main/assets/cat.jpg?v=1793606529" alt="random cute cat" width="220" />
 
-  <p><i>A random cat, it changes every now and then.</i></p>
+<p><i>A random cat, come back if you want to see a new one :)</i></p>
 
   <br/>
 
