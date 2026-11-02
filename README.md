@@ -2,18 +2,14 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FE424D&height=160&section=header" alt="header" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FE424D&center=true&vCenter=true&width=700&lines=Hi!+I%27m+Ilaria+%F0%9F%90%B1;Software+Developer+%26+Security+Specialist+%F0%9F%9B%A1%EF%B8%8F;MSc+Student+in+AI+%26+Security+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FE424D&center=true&vCenter=true&width=700&lines=Hi!+I%27m+Ilaria;Software+Developer+%26+Security+Specialist;MSc+Student+in+AI+%26+Security" alt="Typing SVG" />
 
   <br/><br/>
 
-  <img src="https://cataas.com/cat/cute?width=220&height=220" alt="random cute cat" width="220" />
-
-  <p>🐾 <i>this cat is random: refresh the page and you get a new one</i> 🐾</p>
-
   <p align="center">
-    🎓 <b>BSc in Computer Science</b><br/>
-    📚 Studying for <b>MSc in Artificial Intelligence & Computer Science</b> (Security)<br/>
-    💻 Working as a <b>Software Developer and Security Specialist</b>
+    <b>BSc in Computer Science</b><br/>
+    Studying for <b>MSc in Artificial Intelligence & Computer Science</b> (Security)<br/>
+    Working as a <b>Software Developer and Security Specialist</b>
   </p>
 
   <br/>
@@ -36,6 +32,9 @@
 
   <br/>
 
+  <img src="https://cataas.com/cat/cute?width=220&height=220" alt="random cute cat" width="220" />
+
+  <br/><br/>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FE424D&height=100&section=footer" alt="footer" width="100%" />
 
