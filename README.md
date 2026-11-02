@@ -34,7 +34,7 @@
 
   <br/>
 
-  <img src="https://raw.githubusercontent.com/ila13-code/ila13-code/main/assets/cat.jpg?v=0" alt="random cute cat" width="220" />
+  <img src="https://raw.githubusercontent.com/ila13-code/ila13-code/main/assets/cat.jpg?v=1793606529" alt="random cute cat" width="220" />
 
   <p><i>A random cat, it changes every now and then.</i></p>
 
